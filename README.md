@@ -126,7 +126,7 @@ elseif ($answer -eq "Rückgängig") {
 Das Programm zeigt eine Log Datei wo steht wie viele Dateien verschoben wurden bei der Sortierung und wie viele Ordner gelöscht wurden bei der Zurücksetzung der Sortierung.
 
 ## Selbstreflexion
-Ich hatte am Anfang ein Problem, da ich nicht wusste, was ich machen sollte. Als ich dann aber eine Idee hatte, ging alles schnell, da ich ein konkretes Ziel vor Augen hatte. Während dem Programmieren hat mit GPT auch viel geholfen, obwohl es am Anfang ein bisschen zu viel war. Während dem Arbeiten konnte ich mich auch gut konzentrieren und war sehr wenig abgelenkt, vorallem im Vergleich zu vorherigen Projekten. 
+Am Anfang hatte ich Schwierigkeiten, weil ich nicht wusste, was ich tun sollte. Als ich jedoch eine Idee hatte, verlief alles reibungslos. Da ChatGPT mir beim Programmieren viel geholfen hatte. 
 
 ## Reflexion
 ### Was habe ich gut gemacht?
