@@ -24,7 +24,7 @@ Ich habe gelernt, wie man Dateien, mit Powershell Befehlen, verschiebt. Der Befe
 ```ps
  Move-Item -Path [Dateiname] -Destination [Zielort]
 ```
-### Das Skriptt:
+### Das Skript:
 ```ps
 <#
 .SYNOPSIS
